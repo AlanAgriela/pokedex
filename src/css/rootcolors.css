@@ -1,0 +1,13 @@
+:root {
+    --yellow: #eca539;
+    --red: #c00d20;
+    --orange: #f32539;
+    --black: #353535;
+    --dark-gray: #5e5e5e;
+    --medium-light-gray: #bfbfbf;
+    --light-gray: #e8e8e8;
+    --soft-white-gray: #f5f5f5;
+    --white: #f9f9f9;
+    --default-bg-color: var(--orange); 
+    --default-btn-secondary: var(--medium-light-gray);
+  }
